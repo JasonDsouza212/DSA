@@ -4,7 +4,6 @@ public class searchingininfinitearray {
                 100, 130, 140, 160, 170};
        int ans= position(arr,170);
         System.out.println(ans);
-
     }
     static int position(int arr[],int target){
         int start=0;
@@ -18,7 +17,6 @@ public class searchingininfinitearray {
                     break;
                 }
                 start=temp;
-
         }
         int ans=search(arr,target,start,end);
         return  ans;
