@@ -1,8 +1,8 @@
 public class patterns {
     public static void main(String[] args) {
-        int num=5;
+        int num=4;
 
-        pattern8(num);
+        pattern9(num);
     }
     static void pattern1(int num){
         for(int i=0;i<num;i++){
@@ -83,6 +83,17 @@ public class patterns {
             }
             for (int col=2;col<=i;col++){
                 System.out.print(col);
+            }
+            System.out.println();
+        }
+    }
+    static void pattern9(int num){
+        int o=num;
+        int n=2*num;
+        for(int i=1;i<=n;i++){
+            for(int j=1;j<=n;j++){
+                int min=o-Math.min(Math.min(i,j),Math.min(n-i,n-j));
+                System.out.print(min+" ");
             }
             System.out.println();
         }
