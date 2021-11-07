@@ -90,10 +90,10 @@ public class patterns {
     static void pattern9(int num){
         int o=num;
         int n=2*num;
-        for(int i=1;i<=n;i++){
-            for(int j=1;j<=n;j++){
+        for(int i=0;i<=n;i++){
+            for(int j=0;j<=n;j++){
                 int min=o-Math.min(Math.min(i,j),Math.min(n-i,n-j));
-                System.out.print(min+" ");
+                System.out.print(min+1+ " ");
             }
             System.out.println();
         }
