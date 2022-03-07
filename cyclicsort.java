@@ -6,6 +6,7 @@ public class cyclicsort {
         int arr2[]={5,4,3,2,1};
         System.out.println(Arrays.toString(sort(arr)));
         System.out.println(Arrays.toString(othertype(arr2)));
+        
     }
     static int[] sort(int arr[]){
         int i=0;
