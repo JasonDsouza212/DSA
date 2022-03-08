@@ -47,14 +47,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.rangePrime">
-    <configuration name="bitwiseOddEven" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="bitwiseOddEven" />
-      <module name="DSA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.sroot">
     <configuration name="celingOfaNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="celingOfaNumber" />
       <module name="DSA" />
@@ -76,6 +69,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="sroot" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="sroot" />
+      <module name="DSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Scratch" type="Java Scratch" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Scratch" />
       <option name="SCRATCH_FILE_URL" value="file://$APPLICATION_CONFIG_DIR$/scratches/scratch.java" />
@@ -85,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.sroot" />
         <item itemvalue="Application.rangePrime" />
         <item itemvalue="Java Scratch.Scratch" />
         <item itemvalue="Application.findUniue" />
         <item itemvalue="Application.celingOfaNumber" />
-        <item itemvalue="Application.bitwiseOddEven" />
       </list>
     </recent_temporary>
   </component>
