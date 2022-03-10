@@ -2,11 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb3d1799-0ffb-495a-8e5f-7d5988850230" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lcmgcd.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/rec.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/countzeros.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fact.java" beforeDir="false" afterPath="$PROJECT_DIR$/fact.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/DSA/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/DSA/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/rec.java" beforeDir="false" afterPath="$PROJECT_DIR$/rec.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +49,14 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.rec">
+  <component name="RunManager" selected="Application.countzeros">
+    <configuration name="countzeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="countzeros" />
+      <module name="DSA" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="fact" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="fact" />
       <module name="DSA" />
@@ -61,13 +66,6 @@
     </configuration>
     <configuration name="lcmgcd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="lcmgcd" />
-      <module name="DSA" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="rangePrime" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rangePrime" />
       <module name="DSA" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,11 +87,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.countzeros" />
         <item itemvalue="Application.rec" />
         <item itemvalue="Application.lcmgcd" />
         <item itemvalue="Application.fact" />
         <item itemvalue="Application.sroot" />
-        <item itemvalue="Application.rangePrime" />
       </list>
     </recent_temporary>
   </component>
