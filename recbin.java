@@ -51,7 +51,7 @@ public class recbin {
             recbb(arr,r,c+1);
         }else {
             recbb(arr, r - 1, 0);
-        }
+        }  
 
     }
 }
