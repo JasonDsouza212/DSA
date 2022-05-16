@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="eb3d1799-0ffb-495a-8e5f-7d5988850230" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/mergeSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/mergeSort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/quick.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -47,7 +47,7 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="Application.mergeSort">
+  <component name="RunManager" selected="Application.quick">
     <configuration name="countzeros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="countzeros" />
       <module name="DSA" />
@@ -62,8 +62,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="rec" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="rec" />
+    <configuration name="quick" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="quick" />
       <module name="DSA" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -85,11 +85,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.quick" />
         <item itemvalue="Application.mergeSort" />
         <item itemvalue="Application.recbin" />
         <item itemvalue="Application.rotatesearchRec" />
         <item itemvalue="Application.countzeros" />
-        <item itemvalue="Application.rec" />
       </list>
     </recent_temporary>
   </component>
